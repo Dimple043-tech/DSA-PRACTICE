@@ -16,5 +16,6 @@ This repo contains my daily practice problems in C++.
 ### 📦 Vectors
 - Basic Operations
 - Vector Problems
+   ### Binary Search
 
 
